@@ -24,5 +24,6 @@ random_value1 = random.choice(array1)
 random_value2 = random.choice(array2)
 
 result = f"     {random_value1} {random_value2}"
+
 print(result)
 print()
